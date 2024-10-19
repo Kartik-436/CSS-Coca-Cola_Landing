@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family:  'Poppins', 'Raleway', 'Lato', 'Noto Sans';
     color: #fff;
+    user-select: none;
 }
 
 html, Body{
@@ -183,7 +184,7 @@ html, Body{
     background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0c%2Fc9%2F69%2F0cc9697425b67da13fe1af9e69c4fc08.jpg&f=1&nofb=1&ipt=c4bd3bcca27c275cabac2fef36ccedde1253a8d6144cac8df2a484bedbea8d17&ipo=images");
     background-size: 350%;
     background-position: 20% 20%;
-    filter: blur(3px);
+    filter: blur(6px);
 }
 
 #center>img{
